@@ -1,16 +1,23 @@
-## Hi there 👋
+Привіт, я Михайло 👋
+Пишу про електроніку, гаджети та ремонт техніки. Веду технічний блог viriy.com — корисні матеріали для тих, хто хоче розбиратися в залізі, а не просто користуватися ним.
 
-<!--
-**alinashuptay-bit/alinashuptay-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Про блог viriy.com
+viriy.com — технічний блог micronet про електроніку та ремонт.
+Тут публікую:
 
-Here are some ideas to get you started:
+📋 Схеми материнських плат ноутбуків (Lenovo, ASUS, Acer, Dell, HP, IBM)
+🔧 Огляди та порівняння ноутбуків і смартфонів
+🖱️ Периферія, комплектуючі, корисні лайфхаки
+💾 Поради з програмного забезпечення та безпеки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Теми, які мене цікавлять
+
+Діагностика та ремонт ноутбуків
+Огляди та тести гаджетів
+Схемотехніка та електроніка
+SEO та веб-розробка
+
+
+🔗 Посилання
+РесурсПосилання📡 Технічний блогviriy.com 📘 Facebooktobaccosvit
