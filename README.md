@@ -20,4 +20,4 @@ SEO та веб-розробка
 
 
 🔗 Посилання
-РесурсПосилання📡 Технічний блогviriy.com 📘 Facebooktobaccosvit
+Ресурс Посилання📡 Технічний блог viriy.com 📘 Facebook tobaccosvit
